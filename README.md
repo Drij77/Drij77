@@ -19,7 +19,7 @@
 
  
  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Drij77/Drij77/master/name.svg" alt="Drij Chudasama" />
+  <img src="https://raw.githubusercontent.com/Drij77/Drij77/master/Vanilla-1s-253px.svg" alt="Drij Chudasama" />
 </h1>
 
 ## Hey! 👋
