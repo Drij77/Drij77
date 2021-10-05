@@ -1,9 +1,9 @@
-<!-- 
+
 
 ### Hi there 👋
-<!-- 
 
-**Drij77/Drij77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- **Drij77/Drij77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- -->
+
  
  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Drij Chudasama" />
+  <img src="https://raw.githubusercontent.com/drij77/drij/master/name.svg" alt="Drij Chudasama" />
 </h1>
 
 ## Hey! 👋
