@@ -29,14 +29,22 @@ I'm Drij and a Machine learning Engineer.
 
 - 👥 Core team member at [@nestdotland](https://github.com/nestdotland) -->
 
-## Skills
+<h4>💼 What & Where I am currently working at/on/as</h4>
+
+<p>
+<a href="https://stephenajulu.com">Fx Data Labs</a>Machine learning Engineer<br>
+
+</p>
+
+
+<!-- ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP
 - ⚙️ React, Svelte, Vue
 - 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-
+- 💽 MySQL, SQL, Mongo -->
+<!-- 
 ## Contact
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
 <!-- - [@martonlederer](https://twitter.com/martonlederer) on Twitter -->
 <!-- - [@martonlederer](https://twitter.com/instagram) on Instagram -->
-- [drijchudasama31@gmail.com](./) on Email
+- [drijchudasama31@gmail.com](./) on Email -->
