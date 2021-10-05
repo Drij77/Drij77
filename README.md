@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=drij77)](https://github.com/drij77/github-readme-stats"></a>&nbsp;&nbsp;
+<!-- 
 
 ### Hi there 👋
 <!-- 
@@ -18,3 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
+ 
+ <h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Drij Chudasama" />
+</h1>
+
+## Hey! 👋
+I'm Drij and a Machine learning Engineer.
+<!-- 
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland) -->
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+## Contact
+<!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
+<!-- - [@martonlederer](https://twitter.com/martonlederer) on Twitter -->
+<!-- - [@martonlederer](https://twitter.com/instagram) on Instagram -->
+- [drijchudasama31@gmail.com](./) on Email
