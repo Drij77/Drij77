@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=drij77)](https://github.com/drij77/github-readme-stats"></a>&nbsp;&nbsp;
 
 ### Hi there 👋
 <!-- 
