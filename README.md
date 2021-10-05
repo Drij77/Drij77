@@ -12,8 +12,6 @@
 - 💬 Open for discussion on ML
 
 - 📢 How to reach me: drijchudasama31@gmail.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 
  
