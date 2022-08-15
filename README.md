@@ -15,9 +15,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 💻 I’m currently a machine learning engineer at Fx Data Labs
-
-- 💬 Open for discussion on ML
+- 💬 Open for discussion.
 
 - 📢 How to reach me: drijchudasama31@gmail.com
 
